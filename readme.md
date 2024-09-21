@@ -1,4 +1,4 @@
-<img src="https://github.com/eofferupp/my-facebook-bot-commenter/raw/main/images/cover.png" alt="Facebook Bot Commenter Cover" />
+<img src="https://github.com/eofferupp/my-facebook-bot-commenter/raw/main/images/cov.png" alt="Facebook Bot Commenter Cover" />
 
 # 🤖💬 My Facebook Bot Commenter 🌟📲 [![GitHub](https://img.shields.io/github/license/eofferupp/my-facebook-bot-commenter?color=blue)](https://img.shields.io/github/license/eofferupp/my-facebook-bot-commenter) [![GitHub stars](https://img.shields.io/github/stars/eofferupp/my-facebook-bot-commenter)](https://github.com/eofferupp/my-facebook-bot-commenter/stargazers)
 
